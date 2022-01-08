@@ -11,7 +11,7 @@
             "Statistics"
         ]
     },
-     {
+    {
             "id": 1,
             "firstName": "Vernon",
             "lastName": "Harper",
@@ -1210,28 +1210,6 @@
             "Machine Element Design",
             "Engineering Analysis I",
             "Calculus & Linear Algebra I "
-        ]
-    },
-    {
-        "id": 101,
-        "firstName": "Jay",
-        "lastName": "Vaghani",
-        "email": "primetest@gmail.com",
-        "programme": "Automation Testing",
-        "courses": [
-            "Scala",
-            "Java"
-        ]
-    },
-    {
-        "id": 103,
-        "firstName": "Jay",
-        "lastName": "Vaghani",
-        "email": "primetest1@gmail.com",
-        "programme": "Automation Testing",
-        "courses": [
-            "Scala",
-            "Java"
         ]
     }
 ]

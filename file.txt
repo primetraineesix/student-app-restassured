@@ -1,15 +1,5 @@
 [
-    {
-        "id": 1,
-        "firstName": "Vernon",
-        "lastName": "Harper",
-        "email": "egestas.rhoncus.Proin@massaQuisqueporttitor.org",
-        "programme": "Financial Analysis",
-        "courses": [
-            "Accounting",
-            "Statistics"
-        ]
-    },
+
     {
         "id": 2,
         "firstName": "Murphy",
@@ -1209,28 +1199,6 @@
             "Machine Element Design",
             "Engineering Analysis I",
             "Calculus & Linear Algebra I "
-        ]
-    },
-    {
-        "id": 101,
-        "firstName": "Jay",
-        "lastName": "Vaghani",
-        "email": "primetest@gmail.com",
-        "programme": "Automation Testing",
-        "courses": [
-            "Scala",
-            "Java"
-        ]
-    },
-    {
-        "id": 103,
-        "firstName": "Jay",
-        "lastName": "Vaghani",
-        "email": "primetest1@gmail.com",
-        "programme": "Automation Testing",
-        "courses": [
-            "Scala",
-            "Java"
         ]
     }
 ]
